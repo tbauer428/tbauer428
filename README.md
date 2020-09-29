@@ -1,11 +1,17 @@
 ### Hi there 👋
 
+🌱 I’m currently learning Rust, WebAssembly, Kotlin, Godot
+
+📚 I'm well versed in JavaScript, TypeScript, Java, React, Frontend, RESTful APIs.
+
+🔭 I’m currently reworking my [personal-site](https://github.com/tbauer428/personal-site) using [Yew](https://github.com/yewstack/yew) and [WebAssembly](https://github.com/WebAssembly).
+
+😄 Pronouns: he/him/his
 <!--
 **tbauer428/tbauer428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
