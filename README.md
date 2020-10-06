@@ -9,10 +9,9 @@
 😄 Pronouns: he/him/his
 
 
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=tbauer428)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=tbauer428&langs_count=10&hide=html,css,python,shell,makefile)](https://github.com/anuraghazra/github-readme-stats)
+| Stats | Languages |
+| --- | --- |
+|[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=tbauer428)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=tbauer428&langs_count=10&hide=html,css,python,shell,makefile)](https://github.com/anuraghazra/github-readme-stats)|
 
 
 <!--
