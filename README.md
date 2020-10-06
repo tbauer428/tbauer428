@@ -7,6 +7,15 @@
 🔭 I’m currently reworking my [personal-site](https://github.com/tbauer428/personal-site) using [Yew](https://github.com/yewstack/yew) and [WebAssembly](https://github.com/WebAssembly).
 
 😄 Pronouns: he/him/his
+
+
+
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=tbauer428&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=tbauer428)]
+
 <!--
 **tbauer428/tbauer428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
