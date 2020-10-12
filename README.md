@@ -6,6 +6,8 @@
 
 🔭 I’m currently reworking my [personal-site](https://github.com/tbauer428/personal-site) using [Yew](https://github.com/yewstack/yew) and [WebAssembly](https://github.com/WebAssembly).
 
+📖 I'm currently reading [Code by Charles Petzold](https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software)
+
 😄 Pronouns: he/him/his
 
 
