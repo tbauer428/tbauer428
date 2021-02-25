@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on [chatstacean](https://github.com/tbauer428/chatstacean), an exercise in writing client and server applications for a chat app.
 
-📖 I'm currently reading [Code by Charles Petzold](https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software)
+📖 I'm currently reading [Empire of the Summer Moon by S. C. Gwynne](https://www.nytimes.com/2010/06/11/books/review/excerpt-empire-of-the-summer-moon.html)
 
 😄 Pronouns: he/him/his
 
