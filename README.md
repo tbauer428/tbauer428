@@ -4,7 +4,7 @@
 
 📚 I'm well versed in JavaScript, TypeScript, Java, React, Frontend, RESTful APIs.
 
-🔭 I’m currently working on [chatstacean](https://github.com/tbauer428/chatstacean), an exercise in writing client and server applications for a chat app.
+🔭 I wrote [findit](https://github.com/tbauer428/findit), something kind of analgous to vims search feature, but written in Rust.
 
 📖 I'm currently reading [Empire of the Summer Moon by S. C. Gwynne](https://www.nytimes.com/2010/06/11/books/review/excerpt-empire-of-the-summer-moon.html)
 
