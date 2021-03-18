@@ -6,7 +6,7 @@
 
 🖋 I'm currently working on something _secret_ 👀 , with plans to open up the code later this year.
 
-🔭 I wrote [findit](https://github.com/tbauer428/findit), something kind of analgous to vims search feature, but written in Rust.
+🔭 I wrote [findit](https://github.com/tbauer428/findit), something kind of analogous to vims search feature, but written in Rust.
 
 📖 I'm currently reading [Empire of the Summer Moon by S. C. Gwynne](https://www.nytimes.com/2010/06/11/books/review/excerpt-empire-of-the-summer-moon.html)
 
