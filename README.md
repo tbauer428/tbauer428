@@ -12,7 +12,7 @@
 
 😄 Pronouns: he/him/his
 
-💻 Here is my Neovim config for those curious [init.vim](https://github.com/tbauer428/nvimrc)
+💻 Here is my Neovim config for those curious: [init.vim](https://github.com/tbauer428/nvimrc/blob/main/init.vim)
 
 
 | 📊 | 🖋 |
