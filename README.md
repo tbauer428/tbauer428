@@ -8,7 +8,7 @@
 
 🔭 I wrote [findit](https://github.com/tbauer428/findit), something kind of analogous to vims search feature, but written in Rust.
 
-📖 I'm currently reading [Empire of the Summer Moon by S. C. Gwynne](https://www.nytimes.com/2010/06/11/books/review/excerpt-empire-of-the-summer-moon.html)
+<!-- 📖 I'm currently reading [Empire of the Summer Moon by S. C. Gwynne](https://www.nytimes.com/2010/06/11/books/review/excerpt-empire-of-the-summer-moon.html) -->
 
 😄 Pronouns: he/him/his
 
