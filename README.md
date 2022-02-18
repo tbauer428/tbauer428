@@ -4,7 +4,7 @@
 
 📚 I'm well versed in JavaScript, TypeScript, Java, React, Frontend, RESTful APIs.
 
-🖋 I'm currently working on something _secret_ 👀 , with plans to open up the code later this year.
+🖋 I'm currently working on something _secret_ 👀.
 
 🔭 I wrote [findit](https://github.com/tbauer428/findit), something kind of analogous to vims search feature, but written in Rust.
 
