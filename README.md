@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Rust, WebAssembly, C, Kotlin, Godot
+🌱 I’m currently learning Rust, C, Elixir, Svelte, Go.
 
 📚 I'm well versed in JavaScript, TypeScript, Java, React, Frontend, RESTful APIs.
 
