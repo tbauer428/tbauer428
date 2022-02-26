@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Rust, C, Elixir, Svelte, Go.
+🌱 I’m currently learning Unity, Rust, C, Elixir, Svelte, Go.
 
 📚 I'm well versed in JavaScript, TypeScript, Java, React, Frontend, RESTful APIs.
 
