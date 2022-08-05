@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Unity, Rust, C, Elixir, Svelte, Go.
 
-📚 I'm well versed in JavaScript, TypeScript, Java, React, Frontend, RESTful APIs.
+📚 I'm well versed in JavaScript, TypeScript, Elixir, Java, React, Frontend, RESTful APIs.
 
 🖋 I'm currently working on something _secret_ 👀.
 
