@@ -15,10 +15,10 @@
 💻 Here is my Neovim config for those curious: [init.vim](https://github.com/tbauer428/nvimrc/blob/main/init.vim)
 
 
-| 📊 | 🖋 |
+<!--| 📊 | 🖋 |
 | --- | --- |
 |[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=tbauer428&count_private=true)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=tbauer428&langs_count=5&hide=html,css,python,shell,makefile)](https://github.com/anuraghazra/github-readme-stats)|
-
+-->
 
 <!--
 **tbauer428/tbauer428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
