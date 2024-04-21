@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Unity, Rust, C, Svelte, Go.
+🌱 I’m currently learning Rust, Svelte, Go.
 
-📚 I'm well versed in JavaScript, TypeScript, Elixir, Java, React, Frontend, RESTful APIs.
+📚 I'm well versed in JavaScript, TypeScript, Elixir, Java.
 
 🖋 I'm currently working on something _secret_ 👀.
-
-🔭 I wrote [findit](https://github.com/tbauer428/findit), something kind of analogous to vims search feature, but written in Rust.
 
 <!-- 📖 I'm currently reading [Empire of the Summer Moon by S. C. Gwynne](https://www.nytimes.com/2010/06/11/books/review/excerpt-empire-of-the-summer-moon.html) -->
 
