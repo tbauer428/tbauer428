@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Rust, Svelte, Go.
-
 📚 I'm well versed in JavaScript, TypeScript, Elixir, Java.
 
 🖋 I'm currently working on something _secret_ 👀.
 
-<!-- 📖 I'm currently reading [Empire of the Summer Moon by S. C. Gwynne](https://www.nytimes.com/2010/06/11/books/review/excerpt-empire-of-the-summer-moon.html) -->
+📖 I'm currently reading [The Meaning in the Making by Sean Tucker](https://www.seantucker.photography/the-meaning-in-the-making)
 
 😄 Pronouns: he/him/his
 
