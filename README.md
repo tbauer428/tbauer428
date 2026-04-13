@@ -4,7 +4,7 @@
 
 🖋 I'm currently working on something _secret_ 👀.
 
-📖 I'm currently reading [The Meaning in the Making by Sean Tucker](https://www.seantucker.photography/the-meaning-in-the-making)
+📖 I'm currently reading [The CW of Life](https://www.goodreads.com/en/book/show/123277383-the-cw-way-of-life)
 
 😄 Pronouns: he/him/his
 
